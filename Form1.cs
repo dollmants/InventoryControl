@@ -20,6 +20,8 @@ namespace InventoryControl
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //TODO: Add controls to the form to manualy, or semi-automatically, input data.
+
             /* James William "Jimmy" Buffett (born December 25, 1946) */
             //Musicians.AddMusicArtist(
             //    CreateNewArtist("Jimmy",
